@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "id_matress": "1",
+      "nom_matress": "BEAUTYREST AUTHENTIQUE FERME",
+      "desc_matresse": "Le matelas BEAUTYREST AUTHENTIQUE FERME est le secret d'un sommeil profond et réparateur. Il allie technologie et innovation afin de vous permettre de vous réveiller du bon pied tous les matins.",
+      "file_matresse": "https://www.expertdusommeil.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/v/u/vue-face-_1.webp",
+      "date_add": "2025-02-28 09:56:44",
+      "date_upp": "2025-02-28 09:56:44",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "2",
+      "nom_matress": "AZUR FERME ALESE",
+      "desc_matresse": "Le Matelas Azur Ferme est un matelas haut de gamme conçue pour offrir un confort ferme et une excellente qualité de sommeil. Les ressorts biconiques de qualité Simmons assurent un soutien optimal pour la colonne vertébrale et la mousse ABC est durable et résistant pour une utilisation à long terme. ",
+      "file_matresse": "https://www.simmons.ma/pub/media/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/a/z/azur_ferme_3.png",
+      "date_add": "2025-02-28 10:04:13",
+      "date_upp": "2025-04-03 15:33:58",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "3",
+      "nom_matress": "BEAUTYREST BACK CARE SILVER",
+      "desc_matresse": "Le BEAUTYREST BACK CARE est le neck plus ultra des technologies contre le mal de dos, offrant en plus le confort que seul Beautyrest peut offrir :\r\n\r\nLa Smart Foam, mousse interactive qui corrige l’alignement des vertèbres, de la partie lombaire et dorsale avec une précision nanométrique pour les remettre dans une position naturelle et parfaite qui soulage du mal de dos.\r\n\r\nLa royal foam à effet duvet apporte un confort exceptionnel pour dormir comme sur un nuage de coton.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/t/h/therapy_back_care_silver_-_principale.webp",
+      "date_add": "2025-02-28 10:06:03",
+      "date_upp": "2025-04-03 15:34:05",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "4",
+      "nom_matress": "AZUR MI FERME",
+      "desc_matresse": "Le Matelas Azur Mi Ferme est le choix parfait pour ceux qui recherchent un matelas à la fois confortable et pratique. Grâce à sa mousse ABC et ses ressorts biconiques, il offre un excellent soutien et une répartition uniforme du poids du corps, ce qui permet de réduire les points de pression et daméliorer la qualité du sommeil. ",
+      "file_matresse": "https://www.simmons.ma/pub/media/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/a/z/azur_mi_ferme_3.png",
+      "date_add": "2025-02-28 10:08:36",
+      "date_upp": "2025-04-07 10:06:12",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "5",
+      "nom_matress": "BEAUTYREST BLACK C CLASS",
+      "desc_matresse": "Pour ceux qui recherchent ce qu’il y a de meilleur, la gamme BEAUTYREST BLACK incarne le luxe par excellence. Elle allie une multitude de technologies pour vous offrir le plus réparateur des sommeils.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/b/l/black-c-class-photo_principale.webp",
+      "date_add": "2025-02-28 10:10:26",
+      "date_upp": "2025-04-07 10:04:14",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "6",
+      "nom_matress": "BEAUTYREST BLACK K CLASS",
+      "desc_matresse": "Pour ceux qui recherchent ce quil y a de meilleur, la gamme BEAUTYREST BLACK incarne le luxe par excellence. Elle allie une multitude de technologies pour vous offrir le plus réparateur des sommeils.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/b/l/black-k-class-photo_principale.webp",
+      "date_add": "2025-02-28 10:11:32",
+      "date_upp": "2025-04-07 10:06:42",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "7",
+      "nom_matress": "BEAUTYREST BLACK L CLASS",
+      "desc_matresse": "Pour ceux qui recherchent ce quil y a de meilleur, la gamme BEAUTYREST BLACK incarne le luxe par excellence. Elle allie une multitude de technologies pour vous offrir le plus réparateur des sommeils.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/b/l/black-l-class-_photo_principale.webp",
+      "date_add": "2025-02-28 10:12:14",
+      "date_upp": "2025-04-07 10:24:23",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "8",
+      "nom_matress": "BEAUTYREST BACK CARE PLATINIUM",
+      "desc_matresse": "Le BEAUTYREST BACK CARE est le neck plus ultra des technologies contre le mal de dos, offrant en plus le confort que seul Beautyrest peut offrir :\r\n\r\nLa Smart Foam, mousse interactive qui corrige l’alignement des vertèbres, de la partie lombaire et dorsale avec une précision nanométrique pour les remettre dans une position naturelle et parfaite qui soulage du mal de dos.\r\n\r\nLa royal foam à effet duvet apporte un confort exceptionnel pour dormir comme sur un nuage de coton.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/t/h/therapy_back_care_platinium_-_principale.webp",
+      "date_add": "2025-02-28 10:15:14",
+      "date_upp": "2025-04-07 10:24:37",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "10",
+      "nom_matress": "DORSOPEDIC GENIUS SERIE 15",
+      "desc_matresse": "Le DORSOPEDIC GENIUS Série 15 réinvente votre sommeil avec sa technologie avancée. Des ressorts intelligents et un design novateur offrent un équilibre parfait entre soutien personnalisé et confort inégalé.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/_/0/_0003_serie_15.png_1.webp",
+      "date_add": "2025-02-28 10:18:37",
+      "date_upp": "2025-02-28 10:18:37",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "11",
+      "nom_matress": "DORSOPEDIC GENIUS SERIE 15 PLUS",
+      "desc_matresse": "A la pointe de la technologie et de l’innovation contre le mal de dos grâce à sa technologie avancée, le DORSOPEDIC GENIUS Série 15 Plus offre une technologie performante avec un ciblage 3 ZONES, un soutien adaptatif et un Topper ajoutant un confort optimal la nuit.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/_/0/_0004_serie_15_plus.png.webp",
+      "date_add": "2025-02-28 10:19:15",
+      "date_upp": "2025-02-28 10:19:15",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "12",
+      "nom_matress": "DORSOPEDIC GENIUS SERIE 15 ULTRA",
+      "desc_matresse": "Le matelas DORSOPEDIC GENIUS Ultra offre une expérience de sommeil Next-Gen, grâce à son concentré d’innovation contre le mal de dos. Sa technologie avancée POLYZONES cible spécifiquement 5 zones du dos pour un soutien ultra précis, et son Topper épais assure un confort unique.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/_/0/_0005_serie_15_ultra.png.webp",
+      "date_add": "2025-02-28 10:20:05",
+      "date_upp": "2025-02-28 10:20:05",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "13",
+      "nom_matress": "S BY SIMMONS",
+      "desc_matresse": "Conçue pour vous offrir une véritable sensation de calme et d’apaisement, la gamme S BY SIMMONS est dotée de ressorts biconiques en acier de qualité supérieure, assurant le soutien et la durabilité de votre matelas. Sa Mousse ABS de densité élevée vous offre un confort ferme et souple tandis qu’un traitement aux huiles essentielles naturelles vous garantit des nuits parfaitement sereines.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/s/i/simmons_s_-_principale_3.webp",
+      "date_add": "2025-02-28 10:26:30",
+      "date_upp": "2025-04-07 10:25:21",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "14",
+      "nom_matress": " S+ BY SIMMONS",
+      "desc_matresse": "Conçue pour vous offrir une véritable sensation de calme et d’apaisement, la gamme S BY SIMMONS est dotée de ressorts biconiques en acier de qualité supérieure, assurant le soutien et la durabilité de votre matelas. Sa Mousse ABS de densité élevée vous offre un confort ferme et souple tandis qu’un traitement aux huiles essentielles naturelles vous garantit des nuits parfaitement sereines.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/s/i/simmons_s_principale.webp",
+      "date_add": "2025-02-28 10:27:25",
+      "date_upp": "2025-04-07 10:25:43",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "15",
+      "nom_matress": "S MOUSSE JUNIOR",
+      "desc_matresse": "Destiné aux enfants comme aux adolescents, Le matelas S MOUSSE JUNIOR est conçu à partir d’une combinaison de mousse ABS haute densité et de mousse Haute Résilience souple à effet mémoire de forme de dernière génération. Il apporte un confort supérieur, essentiel aux corps des enfants en pleine croissance.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/l/e/le_s_mousse_junior_-_principale.webp",
+      "date_add": "2025-02-28 10:28:08",
+      "date_upp": "2025-04-07 10:26:06",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "16",
+      "nom_matress": "BABY S MOUSSE",
+      "desc_matresse": "Destiné aux tout-petits, Le matelas BABY S MOUSSE est conçu à partir d’une combinaison de mousse ABS haute densité et de mousse Haute Résilience souple à effet mémoire de forme de dernière génération. Il apporte un confort supérieur, essentiel aux corps des enfants en pleine croissance.",
+      "file_matresse": "https://www.simmons.ma/pub/media/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/l/e/le_s_mousse_junior_-_principale_1.png",
+      "date_add": "2025-02-28 10:33:19",
+      "date_upp": "2025-04-07 10:26:24",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "17",
+      "nom_matress": "SOFTYREST LATEX",
+      "desc_matresse": "Le matelas SOFTYREST est conçu pour convenir aussi bien aux enfants qu aux adultes, en utilisant une combinaison astucieuse de mousse en latex 100% naturel et de mousse HR, assurant ainsi un confort ferme et une qualité de sommeil exceptionnelle.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/5/_/5_2.webp",
+      "date_add": "2025-02-28 10:37:21",
+      "date_upp": "2025-04-07 10:40:54",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "18",
+      "nom_matress": "SOFTYREST VISCO",
+      "desc_matresse": "Le matelas SOFTYREST VISCO se distingue par son harmonieuse combinaison de mousse viscogel et de mousse HR, créant ainsi un équilibre parfait entre un confort moelleux et un soutien ferme. Cette alliance offre la promesse d un sommeil profond et améliore considérablement la qualité de votre repos.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/9/_/9_21.webp",
+      "date_add": "2025-02-28 10:39:23",
+      "date_upp": "2025-04-07 10:42:39",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "19",
+      "nom_matress": "BEAUTYREST AUTHENTIQUE MI-FERME",
+      "desc_matresse": "Confort hôtel et ressorts ensachés pour un duo gagnant, ça vous tente? Le matelas BEAUTYREST AUTHENTIQUE MI-FERME est la solution parfaite qui vous permettra de mettre toutes les chances de votre côté pour retrouver un sommeil plus serein.",
+      "file_matresse": "https://www.expertdusommeil.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/v/u/vue-face-.webp",
+      "date_add": "2025-02-28 10:46:22",
+      "date_upp": "2025-02-28 10:46:22",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "20",
+      "nom_matress": "BEAUTYREST LUXURY COMFORT SILVER",
+      "desc_matresse": "BEAUTYREST LUXURY COMFORT, c’est la combinaison des meilleures technologies offrant le plus luxueux des conforts, digne des plus grands hôtels, en plus des finitions grand luxe :\r\n\r\nLa royal foam à effet duvet apporte un confort exceptionnel pour dormir comme sur un nuage de coton.\r\n\r\nLa cool and clean foam combinée à la visco gel permet de réguler la température pour maintenir la literie fraiche et agréable tout au long de la nuit.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/l/u/luxury_comfort_silver_-_principale.webp",
+      "date_add": "2025-03-12 10:11:13",
+      "date_upp": "2025-04-07 10:39:48",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "21",
+      "nom_matress": "BEAUTYREST WORLD CLASS FIRM",
+      "desc_matresse": "LA COLLECTION BEAUTYREST® WORLD CLASS est l’aboutissement de 100 ans d’expertise. Un concentré de science, de précision et de savoir-faire signée Simmons. \r\nPensée pour sublimer le sommeil, cette nouvelle collection allie technologies de pointe, finitions luxueuses et confort sur-mesure.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/7c788d940fc6e493a84aae9ec42a83ae/_/0/_0002_world_class_firm_view1_250710_1.webp",
+      "date_add": "2025-10-13 10:19:07",
+      "date_upp": "2025-10-13 13:59:49",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "22",
+      "nom_matress": "BEAUTYREST WORLD CLASS MEDIUM",
+      "desc_matresse": "LA COLLECTION BEAUTYREST® WORLD CLASS est l’aboutissement de 100 ans d’expertise. Un concentré de science, de précision et de savoir-faire signée Simmons. \r\nPensée pour sublimer le sommeil, cette nouvelle collection allie technologies de pointe, finitions luxueuses et confort sur-mesure. ",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/7c788d940fc6e493a84aae9ec42a83ae/_/0/_0003_world_class_medium_view1_250710_1.webp",
+      "date_add": "2025-10-13 10:19:43",
+      "date_upp": "2025-10-13 13:39:16",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "23",
+      "nom_matress": "BEAUTYREST WORLD CLASS PLUSH",
+      "desc_matresse": "LA COLLECTION BEAUTYREST® WORLD CLASS est l’aboutissement de 100 ans d’expertise. Un concentré de science, de précision et de savoir-faire signée Simmons. \r\nPensée pour sublimer le sommeil, cette nouvelle collection allie technologies de pointe, finitions luxueuses et confort sur-mesure.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/_/0/_0001_plush_1.webp",
+      "date_add": "2025-10-13 10:20:15",
+      "date_upp": "2025-10-13 13:42:05",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "24",
+      "nom_matress": "BEAUTYREST WORLD CLASS PLUSH PLUS",
+      "desc_matresse": "LA COLLECTION BEAUTYREST® WORLD CLASS est l’aboutissement de 100 ans d’expertise. Un concentré de science, de précision et de savoir-faire signée Simmons. \r\nPensée pour sublimer le sommeil, cette nouvelle collection allie technologies de pointe, finitions luxueuses et confort sur-mesure. ",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/4fd2ef4307e6a13458caff0f6d23e19e/_/0/_0000_plush_plus_1.webp",
+      "date_add": "2025-10-13 10:22:54",
+      "date_upp": "2025-10-13 13:44:51",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "25",
+      "nom_matress": "MATELAS BEAUTYREST HARMONY LUX",
+      "desc_matresse": "Plongez dans un univers d’excellence avec le matelas Simmons Beautyrest Harmony Lux. Chaque nuit devient une escapade luxueuse, où le confort absolu et le raffinement se rencontrent en une parfaite harmonie, pour vous procurer une expérience de sommeil First Class.",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/7c788d940fc6e493a84aae9ec42a83ae/_/0/_0004_beautyrest_harmony_lux_02.webp",
+      "date_add": "2025-10-13 10:46:21",
+      "date_upp": "2025-10-13 13:50:19",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    },
+    {
+      "id_matress": "26",
+      "nom_matress": "BEAUTYREST WORLD CLASS FIRM",
+      "desc_matresse": "LA COLLECTION BEAUTYREST® WORLD CLASS est l’aboutissement de 100 ans d’expertise. Un concentré de science, de précision et de savoir-faire signée Simmons. \r\nPensée pour sublimer le sommeil, cette nouvelle collection allie technologies de pointe, finitions luxueuses et confort sur-mesure. ",
+      "file_matresse": "https://www.simmons.ma/pub/media/webp_image/catalog/product/cache/7c788d940fc6e493a84aae9ec42a83ae/_/0/_0002_world_class_firm_view1_250710_1.webp",
+      "date_add": "2025-10-13 13:31:35",
+      "date_upp": "2025-10-13 13:31:35",
+      "deleted_matress": "0",
+      "validate_matress": "1"
+    }
+  ],
+  "retour": "Success"
+}

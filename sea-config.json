@@ -1,0 +1,7 @@
+{
+  "main": "dist/bundle.js",
+  "output": "dist/sea-prep.blob",
+  "assets": {
+    "HID_hidraw.node": "node_modules/node-hid/prebuilds/HID_hidraw-linux-arm64/node-napi-v4.node"
+  }
+}
